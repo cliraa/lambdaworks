@@ -18,3 +18,6 @@ pub mod winterfell;
 
 /// Implemenation of Vesta Prime field (p = 2^254 + 45560315531506369815346746415080538113)
 pub mod vesta_field;
+
+/// Implemenation of secp256k1 field (p = 2^256 - 2^32 - 2^9 - 2^8 - 2^7 - 2^6 - 2^4 - 1)
+pub mod secp256k1_field;

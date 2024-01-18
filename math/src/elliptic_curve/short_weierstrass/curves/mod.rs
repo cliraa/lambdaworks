@@ -5,3 +5,4 @@ pub mod stark_curve;
 pub mod test_curve_1;
 pub mod test_curve_2;
 pub mod vesta;
+pub mod secp256k1;
